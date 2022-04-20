@@ -1,0 +1,68 @@
+{
+    "status": {
+      "cleaning": "Čiščenje",
+      "auto": "Samodejno čiščenje",
+      "spot": "Čiščenje na mestu",
+      "edge": "Čiščenje robov",
+      "single_room": "Čiščenje sobe",
+      "paused": "Zaustavljeno",
+      "idle": "Nedejaven",
+      "stop": "ustavljeno",
+      "charging": "Polnjenje",
+      "returning home": "Vrnitev domov",
+      "returning": "Vračanje domov",
+      "docked": "Zasidrano",
+      "unknown": "neznano",
+      "offline": "Brez povezave",
+      "error": "Napaka"
+    },
+    "source": {
+      "gentle": "nežno",
+      "silent": "Tiho",
+      "standard": "Standardno",
+      "medium": "srednje",
+      "turbo": "Turbo",
+      "normal": "Normalno",
+      "high": "Visoko",
+      "strong": "Močno",
+      "quiet": "Tiho",
+      "max": "Maks",
+      "max+": "Maks+"
+    },
+    "common": {
+      "name": "Vakuumska kartica",
+      "description": "Vakuumska kartica vam omogoča nadzor vašega robotskega sesalnika.",
+      "start": "Čisti",
+      "continue": "Nadaljuj",
+      "pause": "Pavza",
+      "stop": "Ustavi se",
+      "return_to_base": "Dok",
+      "locate": "Poiščite sesalec",
+      "not_available": "Sesalec ni na voljo"
+    },
+    "error": {
+      "missing_entity": "Obvezna je navedba subjekta!"
+    },
+    "warning": {
+      "actions_array": "OPOZORILO: 'dejanja' so rezervirana za preglasitev privzetih dejanj za obstoječe gumbe. Če je bil vaš namen dodati dodatna dejanja, namesto tega uporabite možnost »bližnjice«."
+    },
+    "editor": {
+      "entity": "Entiteta (obvezno)",
+      "map": "Kamera zemljevida (izbirno)",
+      "image": "Slika (izbirno)",
+      "compact_view": "Kompakten pogled",
+      "compact_view_aria_label_on": "Vklopi kompaktni pogled",
+      "compact_view_aria_label_off": "Izklopite kompaktni pogled",
+      "show_name": "Pokaži ime",
+      "show_name_aria_label_on": "Vklopite prikazno ime",
+      "show_name_aria_label_off": "Izklopite prikazno ime",
+      "show_status": "Pokaži stanje",
+      "show_status_aria_label_on": "Vklopi stanje zaslona",
+      "show_status_aria_label_off": "Izklopite stanje zaslona",
+      "show_toolbar": "Pokaži orodno vrstico",
+      "show_toolbar_aria_label_on": "Vklopite orodno vrstico zaslona",
+      "show_toolbar_aria_label_off": "Izklopite prikazno orodno vrstico",
+      "code_only_note": "Opomba: možnosti nastavitve dejanj in statistike so na voljo izključno z urejevalnikom kode."
+    }
+  }
+  
