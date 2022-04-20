@@ -23,6 +23,7 @@ import * as pl from './translations/pl.json';
 import * as pt from './translations/pt.json';
 import * as ro from './translations/ro.json';
 import * as ru from './translations/ru.json';
+import * as slv from './translations/slv.json';
 import * as sv from './translations/sv.json';
 import * as tw from './translations/tw.json';
 import * as uk from './translations/uk.json';
@@ -50,6 +51,7 @@ var languages = {
   pt,
   ro,
   ru,
+  slv,
   sv,
   tw,
   uk,
